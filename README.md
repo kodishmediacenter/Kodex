@@ -1,7 +1,7 @@
 # kodex 
 
 Linguagem Codificação baseada em prompts para IA converter em HTML
-
+<pre>
 [] = inicia o comando kodex
 name = Titulo da pagina <title></title>
 normal = texto tamanho normal 
@@ -45,3 +45,5 @@ youvideo -> Embedar o video do youtube seguindo formato padrão do youtube
 myouvideo -> converta url do youtube criando [alias:[imagem:"https://i.ytimg.com/vi_webp/oDvgftwzKAc/maxresdefault.webp"][pular linha][link:Abra o Video:https://www.youtube.com/watch?v=oDvgftwzKAc]]
 pagenext  = Proxima pagina gera outro arquivo
 tamanho   = define o tamanho da imagem
+
+</pre>
